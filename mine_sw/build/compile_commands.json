@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/Hp/Desktop/testrun/build",
-  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/nibbles.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\nibbles.dir\\main.cpp.obj -c C:\\Users\\Hp\\Desktop\\testrun\\main.cpp",
-  "file": "C:/Users/Hp/Desktop/testrun/main.cpp",
-  "output": "CMakeFiles/nibbles.dir/main.cpp.obj"
-}
-]
